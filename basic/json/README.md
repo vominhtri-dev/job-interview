@@ -37,7 +37,7 @@
     -   Là date
     -   Là undefined
 
-5. JSON.parse()
+5. JSON.parse() (json => obj)
 
     Phân tích cú pháp dữ liệu bằng `JSON.parse()` và dữ liệu trở thành một đối tượng JavaScript.
 
@@ -47,7 +47,7 @@
     console.log(obj.name); // "John"
     ```
 
-6. JSON.stringify()
+6. JSON.stringify() (obj => string)
 
     Cách sử dụng phổ biến của JSON là trao đổi dữ liệu đến từ máy chủ web. Khi gửi dữ liệu đến máy chủ web, dữ liệu phải là một chuỗi. Chuyển đổi một đối tượng JavaScript thành một chuỗi với JSON.stringify().
 
