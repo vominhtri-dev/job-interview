@@ -41,3 +41,7 @@
     - `Fork` : Fork là một bản sao của kho lưu trữ (repository).
 
     - `Fetch`: Sử dụng lệnh `git fetch` để tìm nạp các bản sao và tải xuống các tệp branch vào máy tính của bạn.
+
+    - `Head` : Head đại diện cho commit mới nhất của repository mà bạn đang làm việc và commit ở đầu của một branch được gọi là head.
+
+    - `Merge` : Lệnh git kết hợp với các yêu cầu kéo (pull request) để thêm các thay đổi từ nhánh này sang nhánh khác.
