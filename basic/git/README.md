@@ -1,3 +1,5 @@
+lolo
+
 1. Git là gì ?
 
     Git là một hệ thống kiểm soát phiên bản (Version Control System). Nó theo dõi các project và file khi chúng thay đổi theo thời gian.
